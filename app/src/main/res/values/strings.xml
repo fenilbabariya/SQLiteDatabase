@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="save">Save</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="display">Display</string>
+</resources>
